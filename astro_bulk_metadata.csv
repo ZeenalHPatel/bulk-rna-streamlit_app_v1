@@ -1,0 +1,118 @@
+Sample Name,Treatment,Time,CellType,Genotype,Sex,Replicate
+GSM7732273,Uninjured,Uninjured,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732274,Uninjured,Uninjured,Flow,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732275,Uninjured,Uninjured,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732276,Uninjured,Uninjured,Flow,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732277,Uninjured,Uninjured,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732278,Uninjured,Uninjured,Flow,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732279,Uninjured,Uninjured,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732280,Uninjured,Uninjured,Flow,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732281,SCI,2d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732282,SCI,2d,Flow,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732283,SCI,2d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732284,SCI,2d,Flow,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732285,SCI,2d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732286,SCI,2d,Flow,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732287,SCI,2d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732288,SCI,2d,Flow,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732289,SCI,2d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,5
+GSM7732290,SCI,2d,Flow,Aldh1l1-CreERT2 -RiboTag,F,5
+GSM7732291,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732292,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732293,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732294,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732295,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732296,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732297,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732298,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,M,1
+GSM7732299,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,1
+GSM7732300,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,M,2
+GSM7732301,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,2
+GSM7732302,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,M,3
+GSM7732303,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,3
+GSM7732304,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,M,4
+GSM7732305,SCI,5d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,4
+GSM7732306,SCI,5d,Flow,Aldh1l1-CreERT2 -RiboTag,M,5
+GSM7732307,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732308,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732309,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732310,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732311,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732312,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732313,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732314,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732315,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,1
+GSM7732316,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,M,1
+GSM7732317,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,2
+GSM7732318,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,M,2
+GSM7732319,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,3
+GSM7732320,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,M,3
+GSM7732321,SCI,14d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,M,4
+GSM7732322,SCI,14d,Flow,Aldh1l1-CreERT2 -RiboTag,M,4
+GSM7732323,SCI,28d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732324,SCI,28d,Flow,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732325,SCI,28d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732326,SCI,28d,Flow,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732327,SCI,28d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732328,SCI,28d,Flow,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732329,SCI,28d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732330,SCI,28d,Flow,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732331,SCI,42d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732332,SCI,42d,Flow,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732333,SCI,42d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732334,SCI,42d,Flow,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732335,SCI,42d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732336,SCI,42d,Flow,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732337,SCI,42d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732338,SCI,42d,Flow,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732339,SCI,70d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732340,SCI,70d,Flow,Aldh1l1-CreERT2 -RiboTag,F,1
+GSM7732341,SCI,70d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732342,SCI,70d,Flow,Aldh1l1-CreERT2 -RiboTag,F,2
+GSM7732343,SCI,70d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732344,SCI,70d,Flow,Aldh1l1-CreERT2 -RiboTag,F,3
+GSM7732345,SCI,70d,Astrocytes,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732346,SCI,70d,Flow,Aldh1l1-CreERT2 -RiboTag,F,4
+GSM7732347,SCI,14d,Astrocytes,73.12 GFAP Cre -RiboTag,F,1
+GSM7732348,SCI,14d,Flow,73.12 GFAP Cre -RiboTag,F,1
+GSM7732349,SCI,14d,Astrocytes,73.12 GFAP Cre -RiboTag,F,2
+GSM7732350,SCI,14d,Flow,73.12 GFAP Cre -RiboTag,F,2
+GSM7732351,SCI,14d,Astrocytes,73.12 GFAP Cre -RiboTag,F,3
+GSM7732352,SCI,14d,Flow,73.12 GFAP Cre -RiboTag,F,3
+GSM7732353,SCI,14d,Astrocytes,73.12 GFAP Cre -RiboTag,F,4
+GSM7732354,SCI,14d,Flow,73.12 GFAP Cre -RiboTag,F,4
+GSM7732355,SCI,14d,Astrocytes,73.12 GFAP Cre -RiboTag,F,5
+GSM7732356,SCI,14d,Flow,73.12 GFAP Cre -RiboTag,F,5
+GSM7732357,Postnatal,P0,Astrocytes,73.12 GFAP Cre -RiboTag,M,1
+GSM7732358,Postnatal,P0,Astrocytes,73.12 GFAP Cre -RiboTag,M,2
+GSM7732359,Postnatal,P0,Astrocytes,73.12 GFAP Cre -RiboTag,M,3
+GSM7732360,Postnatal,P0,Astrocytes,73.12 GFAP Cre -RiboTag,M,4
+GSM7732361,Postnatal,P3,Astrocytes,73.12 GFAP Cre -RiboTag,F,1
+GSM7732362,Postnatal,P3,Astrocytes,73.12 GFAP Cre -RiboTag,M,1
+GSM7732363,Postnatal,P3,Astrocytes,73.12 GFAP Cre -RiboTag,F,2
+GSM7732364,Postnatal,P7,Astrocytes,73.12 GFAP Cre -RiboTag,M,1
+GSM7732365,Postnatal,P7,Astrocytes,73.12 GFAP Cre -RiboTag,F,1
+GSM7732366,Postnatal,P7,Astrocytes,73.12 GFAP Cre -RiboTag,M,2
+GSM7732367,Postnatal,P14,Astrocytes,73.12 GFAP Cre -RiboTag,F,1
+GSM7732368,Postnatal,P14,Astrocytes,73.12 GFAP Cre -RiboTag,F,2
+GSM7732369,Postnatal,P14,Astrocytes,73.12 GFAP Cre -RiboTag,F,3
+GSM7732370,Postnatal,P14,Astrocytes,73.12 GFAP Cre -RiboTag,M,1
+GSM7732371,Postnatal,P14,Astrocytes,73.12 GFAP Cre -RiboTag,M,2
+GSM7732372,Postnatal,P21,Astrocytes,73.12 GFAP Cre -RiboTag,F,1
+GSM7732373,Postnatal,P21,Astrocytes,73.12 GFAP Cre -RiboTag,F,2
+GSM7732374,Postnatal,P21,Astrocytes,73.12 GFAP Cre -RiboTag,M,1
+GSM7732375,Postnatal,P21,Astrocytes,73.12 GFAP Cre -RiboTag,M,2
+GSM7732376,Postnatal,P35,Astrocytes,73.12 GFAP Cre -RiboTag,F,1
+GSM7732377,Postnatal,P35,Astrocytes,73.12 GFAP Cre -RiboTag,F,2
+GSM7732378,Postnatal,P35,Astrocytes,73.12 GFAP Cre -RiboTag,M,1
+GSM7732379,Postnatal,P35,Astrocytes,73.12 GFAP Cre -RiboTag,M,2
+GSM7732380,Postnatal,P63,Astrocytes,73.12 GFAP Cre -RiboTag,M,1
+GSM7732381,Postnatal,P63,Flow,73.12 GFAP Cre -RiboTag,M,1
+GSM7732382,Postnatal,P63,Astrocytes,73.12 GFAP Cre -RiboTag,M,2
+GSM7732383,Postnatal,P63,Flow,73.12 GFAP Cre -RiboTag,M,2
+GSM7732384,Postnatal,P63,Astrocytes,73.12 GFAP Cre -RiboTag,M,3
+GSM7732385,Postnatal,P63,Flow,73.12 GFAP Cre -RiboTag,M,3
+GSM7732386,Postnatal,P63,Astrocytes,73.12 GFAP Cre -RiboTag,F,1
+GSM7732387,Postnatal,P63,Flow,73.12 GFAP Cre -RiboTag,F,1
+GSM7732388,Postnatal,P63,Astrocytes,73.12 GFAP Cre -RiboTag,F,2
+GSM7732389,Postnatal,P63,Flow,73.12 GFAP Cre -RiboTag,F,2
