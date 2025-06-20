@@ -9,8 +9,11 @@ st.set_page_config(layout="wide")
 st.title("🔬 Bulk RNA-seq Gene Expression Explorer")
 
 # === Default file paths ===
-default_expr_path = "/Users/zeenalpatel/Astrocyte_Integration_SCI_Project/HPC-astro_integration_project/AnalysisRDSfiles/CSV_GSE241628/astro_bulk_with_symbols.xlsx"
-default_meta_path = "/Users/zeenalpatel/Astrocyte_Integration_SCI_Project/HPC-astro_integration_project/AnalysisRDSfiles/CSV_GSE241628/astro_bulk_metadata.csv"
+#default_expr_path = "/Users/zeenalpatel/Astrocyte_Integration_SCI_Project/HPC-astro_integration_project/AnalysisRDSfiles/CSV_GSE241628/astro_bulk_with_symbols.xlsx"
+#default_meta_path = "/Users/zeenalpatel/Astrocyte_Integration_SCI_Project/HPC-astro_integration_project/AnalysisRDSfiles/CSV_GSE241628/astro_bulk_metadata.csv"
+
+default_expr_path = "astro_bulk_with_symbols.xlsx"
+default_meta_path = "astro_bulk_metadata.csv"
 
 # === Load expression matrix from default path ===
 if os.path.exists(default_expr_path):
